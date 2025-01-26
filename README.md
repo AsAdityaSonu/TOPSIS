@@ -43,6 +43,11 @@ python <program.py> <InputDataFile> <Weights> <Impacts> <ResultFileName>
 ```sh
 python 102217092.py data.csv "1,1,1,1,1" "+,+,-,+,-" 102217092-result.csv
 ```
+### PyPi Package Link
+
+```sh
+https://pypi.org/project/topsis-adityapandey-102217092/0.5/
+```
 
 
 
