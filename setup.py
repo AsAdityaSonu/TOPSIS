@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="TOPSIS",
-    version="0.1",
+    name="Topsiss-aditya-102217092",
+    version="0.2",
     packages=find_packages(),
     install_requires=[],
     include_package_data=True,
