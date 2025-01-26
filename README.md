@@ -17,7 +17,7 @@ The Topsis (Technique for Order of Preference by Similarity to Ideal Solution) m
 To install the Topsis Python package, use `pip` with the following command:
 
 ```bash
-pip install 102217092-Aditya-Pandey
+pip install 102217092-Aditya-topsis
 ```
 
 ## Usage
@@ -41,7 +41,7 @@ python <program.py> <InputDataFile> <Weights> <Impacts> <ResultFileName>
 ### Command-Line Input Example
 
 ```sh
-python 102217092.py 102217092-data.csv "1,1,1,1,1" "+,+,-,+,-" 102217092-result.csv
+python 102217092.py data.csv "1,1,1,1,1" "+,+,-,+,-" 102217092-result.csv
 ```
 
 
